@@ -10,6 +10,9 @@ This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachang
 ### Fixed
 - Correct error message for incorrect graphite expression
 
+### Changed
+- Added docs for handler-graphite-notify and handler-graphite-status
+
 ## [1.1.0] - 2016-04-26
 ### Fixed
 - fix comparison of number against array in --last.
